@@ -1,0 +1,13 @@
+ win + e = file explorer
+win + d = minimise all running windows and switch to desktop
+win + a = notificaton area
+win + b = bottom toggles
+win + t = taskbar
+win + m = minimise all tab and switch to desktop but didn't restore the last open window
+win+q = search
+win + u = display settings
+win + w = whiteboard
+win + n =onenote
+win + l = to lock the pc
+win + v=clipboard history
+win + r = run
